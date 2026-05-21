@@ -47,3 +47,7 @@ end
 for i = 1:10
   ...
 end
+
+% Final Projects:
+% Project - Stellar Motion
+% Project - Compare Stellar Spectra 
